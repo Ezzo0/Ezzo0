@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm **Abdelrahman Ezzelregal**. I'm a _Senior Computer Engineering strudent_, former _Embedded Software Intern @[ELARABY Group](https://www.linkedin.com/company/elarabygroup/posts/?feedView=all)_, and _Software Engineer_. I love building cool projects, and share my knowledge with my friends.
+- I’m currently learning Spring Boot and developing my skills in database management systems.
+- I’m Seeking an entry-level position to contribute to innovative projects, learn from experienced professionals, and grow expertise in back-end development.
