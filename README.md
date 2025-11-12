@@ -17,19 +17,6 @@ Currently, I’m working at **United Delta for Information Technology**, where I
 
 ---
 
-## 🧑‍💻 Featured Projects
-
-### 🗨️ [Mersal – Real-Time Chat App](https://github.com/Ezzo0/Mersal)
-A full-stack messaging platform built with **Node.js**, **Express**, **React**, and **Socket.IO**, supporting real-time chat, file sharing, and authentication with **JWT** and **bcrypt**.
-
-### 🍔 [Yummi – Food Ordering API](https://github.com/Ezzo0/Yummi)
-A RESTful API built with **Express.js**, **TypeScript**, and **MongoDB**, featuring **JWT authentication**, **Stripe payment integration**, and robust input validation.
-
-### 🧭 [Gitlet – Version Control System](https://github.com/Ezzo0/gitlet)
-A simplified version control system implemented from scratch, supporting commit, branch, merge, and rollback operations.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript, Java, Python, SQL, C/C++  
