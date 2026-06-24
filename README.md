@@ -28,7 +28,3 @@ Software Engineer with a Bachelor's degree in Computer Engineering and experienc
 - **LinkedIn:** https://www.linkedin.com/in/ezz26
 - **GitHub:** https://github.com/Ezz0
 - **Email:** abdelrahmanezzelregal26@gmail.com
-
----
-
-⭐ *Passionate about building reliable software and continuously learning new technologies.*
