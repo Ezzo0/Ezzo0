@@ -18,10 +18,10 @@ Software Engineer with a Bachelor's degree in Computer Engineering and experienc
 
 ## Experience
 
-- Develop workflow automation solutions using **Appian**.
-- Build secure and scalable REST APIs with **NestJS** and **Spring Boot**.
-- Design and integrate database-driven applications with external services.
-- Create full-stack and backend projects featuring real-time communication, authentication, and payment integration.
+- Design and develop backend process orchestration logic using **Appian**, automating workflows and business processes across multiple departments to improve operational efficiency..
+- Build and expose **RESTful APIs** using Appian Web API objects, enabling external systems to securely trigger process models and retrieve data in real time.
+- Design relational database schemas, define table relationships, and develop optimized **SQL** queries to ensure efficient data access, data integrity, and high-performance business applications.
+- Implement backend business logic and data transformations using SAIL expression rules, and build record actions and related actions to enforce data integrity across interconnected records.
 
 ## 📫 Connect With Me
 
