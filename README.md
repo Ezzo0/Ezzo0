@@ -2,26 +2,24 @@
 
 **Software Engineer | Backend Developer**
 
-Software Engineer with a Bachelor's degree in Computer Engineering and experience building enterprise applications, RESTful APIs, and scalable backend systems. Currently developing business applications using **Appian**, while expanding expertise in **Java, Spring Boot, NestJS, and Microservices Architecture**.
+Backend Software Engineer with 1 year of professional experience building scalable applications and **RESTful APIs** using **Java**, **Spring**, and **Spring Boot**. Experienced in designing secure authentication systems, integrating third-party services, and working with **SQL** and **NoSQL** databases. Hands-on experience with microservices, event-driven architecture, with a strong focus on building reliable and maintainable backend systems.
 
 ## Tech Stack
 
-**Languages:** Java, JavaScript, TypeScript, Python, SQL, C/C++  
+**Languages:** Java, JavaScript, TypeScript, Python, SQL, C/C++
 
-**Backend:** Spring Boot, Spring Security, NestJS, Node.js, Express.js  
+**Backend:** Spring, Spring Boot, Spring Security, NestJS, Express.js, Node.js  
 
-**Databases:** PostgreSQL, MySQL, MongoDB  
+**Architecture:** Microservices Architecture, Event-Driven Architecture  
 
-**Architecture:** Microservices, Event-Driven Architecture  
-
-**Tools:** Docker, Git, GitHub, Postman, VS Code
+**Tools:** Docker, Docker Compose, PostgreSQL, MySQL, MongoDB, Git, GitHub
 
 ## Experience
 
-- Design and develop backend process orchestration logic using **Appian**, automating workflows and business processes across multiple departments to improve operational efficiency..
-- Build and expose **RESTful APIs** using Appian Web API objects, enabling external systems to securely trigger process models and retrieve data in real time.
-- Design relational database schemas, define table relationships, and develop optimized **SQL** queries to ensure efficient data access, data integrity, and high-performance business applications.
-- Implement backend business logic and data transformations using SAIL expression rules, and build record actions and related actions to enforce data integrity across interconnected records.
+- Developed and maintained **RESTful APIs** using **Spring**, **Spring Boot**, and **Java**, implementing business logic, validation, error handling, and authentication.
+- Designed and integrated backend services with **NoSQL** and **SQL** databases, optimizing queries, schemas, indexes, and data access patterns.
+- Implemented JWT-based authentication and role-based authorization (RBAC) to secure APIs and control access to application resources.
+- Improved backend performance through API optimization, database query tuning, caching, and pagination.
 
 ## 📫 Connect With Me
 
