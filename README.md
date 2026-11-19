@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-stack Developer**
 
-Full-stack Software Engineer with 1 year of professional experience building scalable applications with **React** and **RESTful APIs** using **TypeScript**, **Node.js**, and **NestJS**. Experienced in designing secure authentication systems, integrating third-party services, and working with **SQL** and **NoSQL** databases. Hands-on experience with microservices, event-driven architecture, with a strong focus on building reliable and maintainable backend systems.
+Full-stack Software Engineer with 1 year of professional experience building scalable applications with **React** and **RESTful APIs** using **Java**, **Spring**, and **Spring Boot**. Experienced in designing secure authentication systems, integrating third-party services, and working with **SQL** and **NoSQL** databases. Hands-on experience with microservices, event-driven architecture, with a strong focus on building reliable and maintainable backend systems.
 
 ## Tech Stack
 
@@ -16,7 +16,7 @@ Full-stack Software Engineer with 1 year of professional experience building sca
 
 ## Experience
 
-- Developed and maintained **RESTful APIs** using **TypeScript**, **Node.js**, and **NestJS**, implementing business logic, validation, error handling, and authentication.
+- Developed and maintained **RESTful APIs** using **Java**, **Spring**, and **Spring Boot**, implementing business logic, validation, error handling, and authentication.
 - Designed and integrated backend services with **NoSQL** and **SQL** databases, optimizing queries, schemas, indexes, and data access patterns.
 - Implemented JWT-based authentication and role-based authorization (RBAC) to secure APIs and control access to application resources.
 - Improved backend performance through API optimization, database query tuning, caching, and pagination.
